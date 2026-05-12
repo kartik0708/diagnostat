@@ -2,6 +2,6 @@ streamlit
 streamlit-option-menu
 scikit-learn==1.2.2
 xgboost==1.7.6
-numpy==1.23.3
+numpy>=1.24
 pandas
 pickle-mixin
